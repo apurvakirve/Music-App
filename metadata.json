@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Groove",
+  "description": "An intelligent music application that uses AI to generate personalized playlists and album art, creating a unique and immersive listening experience. Explore music like never before with features powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
